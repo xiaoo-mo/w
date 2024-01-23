@@ -51,7 +51,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoo-mo/w/0da52967a2fa076d08e04fd717df662e191247d2/w1",
+      "url": "https://s2.pub/w1",
       "epg": "https://epg.erw.cc/api/diyp",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
